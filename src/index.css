@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(to bottom,rgb(129, 191, 199), pink, rgb(187, 184, 184));
   background-repeat: repeat;
-  height: 96.5vh;
+  min-height: 96.5vh;
 }
 
 code {
